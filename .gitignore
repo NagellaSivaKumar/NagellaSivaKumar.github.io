@@ -6,8 +6,7 @@ assets/documents/*.doc
 # Keep the directory but ignore contents
 !assets/documents/.gitkeep
 
-# Ignore personal photos except placeholder
-assets/images/profile.jpg
+# Placeholder for images
 !assets/images/placeholder.jpg
 
 # System files
