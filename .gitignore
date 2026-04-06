@@ -1,0 +1,30 @@
+# Ignore sensitive documents
+assets/documents/*.pdf
+assets/documents/*.docx
+assets/documents/*.doc
+
+# Keep the directory but ignore contents
+!assets/documents/.gitkeep
+
+# Ignore personal photos except placeholder
+assets/images/profile.jpg
+!assets/images/placeholder.jpg
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

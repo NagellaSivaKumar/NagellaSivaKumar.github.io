@@ -1,0 +1,7 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#0f3460"/>
+  <circle cx="250" cy="200" r="80" fill="#ffbd39"/>
+  <path d="M 150 350 Q 250 280 350 350" stroke="#ffbd39" stroke-width="5" fill="none"/>
+  <text x="250" y="420" font-family="Arial, sans-serif" font-size="24" fill="#ffbd39" text-anchor="middle">Add Your Photo</text>
+  <text x="250" y="450" font-family="Arial, sans-serif" font-size="16" fill="#a8a8a8" text-anchor="middle">profile.jpg</text>
+</svg>
